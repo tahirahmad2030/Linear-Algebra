@@ -9,4 +9,4 @@ This project requires Python 2.7.
 
 In a terminal or command window, navigate to the top-level project directory
 
-```python -m smartcab.agent```
+```python -m vector.py```
